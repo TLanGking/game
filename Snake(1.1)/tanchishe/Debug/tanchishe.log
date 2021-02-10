@@ -1,0 +1,5 @@
+﻿  snake.cpp
+C:\Users\isaTLanG\source\repos\tanchishe\tanchishe\snake.cpp(194,13): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\isaTLanG\source\repos\tanchishe\tanchishe\snake.cpp(253,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\isaTLanG\source\repos\tanchishe\tanchishe\snake.cpp(254,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  tanchishe.vcxproj -> C:\Users\isaTLanG\source\repos\tanchishe\Debug\tanchishe.exe
